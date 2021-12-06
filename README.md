@@ -1,1 +1,1 @@
-# ugm-
+# ugm-{ "city" : "Arizona State", "mascot" : "Sun Devils", "short" : "ASU", "homeText" : "FFFFFF", "homeMain" : "007A33", "homeSecondary" : "BA9653", "awayText" : "007A33", "awayMain" : "FFFFFF", "awaySecondary" : "BA9653", "logoURL" : "https://github.com/C4pit4no/ubgm_test_setup/raw/main/TEST1.png"}
